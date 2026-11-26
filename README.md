@@ -49,6 +49,6 @@ Portal de Dados Abertos do SUS — Síndrome Respiratória Aguda Grave (SRAG), p
 
 ## Equipe
 
-Projeto desenvolvido por dois estudantes do curso de Engenharia de Computação da Universidade Federal do Pampa (UNIPAMPA).
+Projeto desenvolvido por Lucas Flores Corrêa e Vitor Edu Bombassaro do curso de Engenharia de Computação da Universidade Federal do Pampa (UNIPAMPA).
 
 ## Projeto Integrador I
